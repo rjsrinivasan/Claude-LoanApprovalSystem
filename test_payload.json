@@ -1,0 +1,12 @@
+{
+  "applicant_id": "TEST-APPROVAL-001",
+  "age": 35,
+  "income": 75000.00,
+  "employment_type": "salaried",
+  "employment_tenure_years": 5,
+  "credit_score": 720,
+  "loan_amount": 300000.00,
+  "loan_tenure_months": 360,
+  "existing_liabilities": 2000.00,
+  "location": "New York, NY"
+}
